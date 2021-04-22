@@ -1,0 +1,4 @@
+#Tue Apr 13 13:39:52 ICT 2021
+base.0=/Users/tuyen/Desktop/libgdx/3-link/android/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

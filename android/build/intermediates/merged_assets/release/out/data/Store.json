@@ -1,0 +1,32 @@
+[
+  {
+    "priceBg": 700,
+    "priceTile": 700
+
+  },
+  {
+    "priceBg": 1000,
+    "priceTile": 1000
+
+  },
+  {
+    "priceBg": 1200,
+    "priceTile": 1200
+
+  },
+  {
+    "priceBg": 1500,
+    "priceTile": 1500
+
+  },
+  {
+    "priceBg": 1700,
+    "priceTile": 1700
+
+  },
+  {
+    "priceBg": 2000,
+    "priceTile": 2000
+
+  }
+]

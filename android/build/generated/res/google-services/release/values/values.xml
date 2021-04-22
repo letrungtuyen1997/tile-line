@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">542614703311-vegauusrsgptt7d8lc41tcv0uhcgbjui.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">542614703311</string>
+    <string name="google_api_key" translatable="false">AIzaSyDoxyisneCWLlQ7JRVQUp3RzXQBBEOZ4g8</string>
+    <string name="google_app_id" translatable="false">1:542614703311:android:ba588209fa9f351cc37bba</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDoxyisneCWLlQ7JRVQUp3RzXQBBEOZ4g8</string>
+    <string name="google_storage_bucket" translatable="false">jkthreelink.appspot.com</string>
+    <string name="project_id" translatable="false">jkthreelink</string>
+</resources>

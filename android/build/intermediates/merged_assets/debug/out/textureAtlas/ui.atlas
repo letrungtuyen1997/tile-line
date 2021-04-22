@@ -1,0 +1,713 @@
+
+ui.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Coin
+  rotate: false
+  xy: 905, 1494
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+bonusTime
+  rotate: false
+  xy: 499, 197
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 404, 812
+  size: 90, 274
+  orig: 90, 274
+  offset: 0, 0
+  index: -1
+border1
+  rotate: false
+  xy: 315, 387
+  size: 91, 164
+  orig: 91, 164
+  offset: 0, 0
+  index: -1
+border2
+  rotate: false
+  xy: 1934, 1675
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+bronze
+  rotate: false
+  xy: 1993, 1830
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+btnAds
+  rotate: false
+  xy: 698, 1642
+  size: 267, 90
+  orig: 267, 90
+  offset: 0, 0
+  index: -1
+btnBack
+  rotate: false
+  xy: 1688, 1707
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnBuy_d
+  rotate: false
+  xy: 971, 1723
+  size: 168, 73
+  orig: 168, 73
+  offset: 0, 0
+  index: -1
+btnChapter1
+  rotate: false
+  xy: 2, 981
+  size: 400, 105
+  orig: 400, 105
+  offset: 0, 0
+  index: -1
+btnChapter2
+  rotate: false
+  xy: 2, 660
+  size: 400, 105
+  orig: 400, 105
+  offset: 0, 0
+  index: -1
+btnChapter3
+  rotate: false
+  xy: 2, 874
+  size: 400, 105
+  orig: 400, 105
+  offset: 0, 0
+  index: -1
+btnChapter4
+  rotate: false
+  xy: 2, 553
+  size: 400, 105
+  orig: 400, 105
+  offset: 0, 0
+  index: -1
+btnChapter5
+  rotate: false
+  xy: 2, 767
+  size: 400, 105
+  orig: 400, 105
+  offset: 0, 0
+  index: -1
+btnGameOther
+  rotate: false
+  xy: 304, 194
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+btnGreen
+  rotate: false
+  xy: 434, 577
+  size: 168, 73
+  orig: 168, 73
+  offset: 0, 0
+  index: -1
+btnHint1
+  rotate: false
+  xy: 538, 1256
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+btnHome
+  rotate: false
+  xy: 1310, 1523
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnLan
+  rotate: false
+  xy: 1127, 1622
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+btnNext
+  rotate: false
+  xy: 698, 1550
+  size: 267, 90
+  orig: 267, 90
+  offset: 0, 0
+  index: -1
+btnPause
+  rotate: false
+  xy: 1638, 1523
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnRank
+  rotate: false
+  xy: 814, 1221
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+btnReplay
+  rotate: false
+  xy: 1405, 1789
+  size: 201, 73
+  orig: 201, 73
+  offset: 0, 0
+  index: -1
+btnReplay2
+  rotate: false
+  xy: 1608, 1789
+  size: 201, 73
+  orig: 201, 73
+  offset: 0, 0
+  index: -1
+btnReplay3
+  rotate: false
+  xy: 2, 361
+  size: 311, 94
+  orig: 311, 94
+  offset: 0, 0
+  index: -1
+btnResume
+  rotate: false
+  xy: 2, 457
+  size: 311, 94
+  orig: 311, 94
+  offset: 0, 0
+  index: -1
+btnSelectBg
+  rotate: false
+  xy: 230, 2
+  size: 92, 54
+  orig: 92, 54
+  offset: 0, 0
+  index: -1
+btnSelectTile
+  rotate: false
+  xy: 324, 6
+  size: 92, 54
+  orig: 92, 54
+  offset: 0, 0
+  index: -1
+btnSetting
+  rotate: false
+  xy: 915, 1221
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+btnShop
+  rotate: false
+  xy: 592, 184
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+btnShuffle1
+  rotate: false
+  xy: 1720, 1550
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+btnTutorial
+  rotate: false
+  xy: 1852, 1672
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnWatch
+  rotate: false
+  xy: 1202, 1789
+  size: 201, 73
+  orig: 201, 73
+  offset: 0, 0
+  index: -1
+btnWatchAds
+  rotate: false
+  xy: 502, 1565
+  size: 194, 164
+  orig: 194, 164
+  offset: 0, 0
+  index: -1
+btnWheel
+  rotate: false
+  xy: 713, 1221
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+btnYellow
+  rotate: false
+  xy: 2, 58
+  size: 300, 99
+  orig: 300, 99
+  offset: 0, 0
+  index: -1
+close_btn
+  rotate: false
+  xy: 1474, 1523
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+comboLine
+  rotate: false
+  xy: 2, 21
+  size: 200, 5
+  orig: 200, 5
+  offset: 0, 0
+  index: -1
+cucxilau
+  rotate: false
+  xy: 1596, 1697
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+cucxilau0
+  rotate: false
+  xy: 1596, 1605
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+cucxilau1
+  rotate: false
+  xy: 1504, 1697
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+cucxilau2
+  rotate: false
+  xy: 1228, 1605
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+cucxilau3
+  rotate: false
+  xy: 1504, 1605
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+cucxilau4
+  rotate: false
+  xy: 1412, 1697
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+cucxilau5
+  rotate: false
+  xy: 1228, 1697
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 304, 309
+  size: 5, 50
+  orig: 5, 50
+  offset: 0, 0
+  index: -1
+cusor
+  rotate: false
+  xy: 679, 1824
+  size: 5, 50
+  orig: 5, 50
+  offset: 0, 0
+  index: -1
+frmCoin
+  rotate: false
+  xy: 502, 1491
+  size: 170, 72
+  orig: 170, 72
+  offset: 0, 0
+  index: -1
+frmMoney
+  rotate: false
+  xy: 2, 1328
+  size: 454, 164
+  orig: 454, 164
+  offset: 0, 0
+  index: -1
+frmPer
+  rotate: false
+  xy: 1269, 1956
+  size: 590, 90
+  orig: 590, 90
+  offset: 0, 0
+  index: -1
+frmSkill
+  rotate: false
+  xy: 1852, 1630
+  size: 97, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1
+frmTile
+  rotate: false
+  xy: 1861, 1886
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+frmUser
+  rotate: false
+  xy: 1269, 1864
+  size: 590, 90
+  orig: 590, 90
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 1141, 1746
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+hint
+  rotate: false
+  xy: 406, 197
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+icLock
+  rotate: false
+  xy: 1993, 1776
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+iconBg0
+  rotate: false
+  xy: 458, 1331
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+iconBg1
+  rotate: false
+  xy: 408, 417
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+iconBg2
+  rotate: false
+  xy: 778, 1322
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+iconBg3
+  rotate: false
+  xy: 967, 1563
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+iconBg4
+  rotate: false
+  xy: 434, 652
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+iconBg5
+  rotate: false
+  xy: 618, 1322
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+lan_btn
+  rotate: false
+  xy: 1127, 1521
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+lan_en_btn
+  rotate: false
+  xy: 1861, 1754
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+lan_id_btn
+  rotate: false
+  xy: 540, 285
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+lan_jp_btn
+  rotate: false
+  xy: 408, 285
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+lan_kr_btn
+  rotate: false
+  xy: 436, 65
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+lan_pt_btn
+  rotate: false
+  xy: 568, 445
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+lan_select
+  rotate: false
+  xy: 568, 52
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+lan_vi_btn
+  rotate: false
+  xy: 304, 62
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+laser1
+  rotate: false
+  xy: 2023, 1946
+  size: 10, 100
+  orig: 10, 100
+  offset: 0, 0
+  index: -1
+laser11
+  rotate: false
+  xy: 404, 584
+  size: 28, 226
+  orig: 28, 226
+  offset: 0, 0
+  index: -1
+laser1_2
+  rotate: false
+  xy: 2, 9
+  size: 100, 10
+  orig: 100, 10
+  offset: 0, 0
+  index: -1
+laser1_22
+  rotate: false
+  xy: 2, 28
+  size: 226, 28
+  orig: 226, 28
+  offset: 0, 0
+  index: -1
+level_btn
+  rotate: false
+  xy: 2, 159
+  size: 300, 99
+  orig: 300, 99
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 679, 1798
+  size: 425, 2
+  orig: 425, 2
+  offset: 0, 0
+  index: -1
+loadding
+  rotate: false
+  xy: 611, 1220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 1494
+  size: 498, 235
+  orig: 498, 235
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 1412, 1605
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+maskBomb
+  rotate: false
+  xy: 538, 1226
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+offMusic
+  rotate: false
+  xy: 1770, 1625
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+offSound
+  rotate: false
+  xy: 1392, 1523
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+offVibrate
+  rotate: false
+  xy: 1770, 1707
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+onMusic
+  rotate: false
+  xy: 1688, 1625
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+onSound
+  rotate: false
+  xy: 1556, 1523
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+onVibrate
+  rotate: false
+  xy: 1228, 1523
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+play_btn
+  rotate: false
+  xy: 2, 260
+  size: 300, 99
+  orig: 300, 99
+  offset: 0, 0
+  index: -1
+ribbonFail
+  rotate: false
+  xy: 704, 1889
+  size: 563, 157
+  orig: 563, 157
+  offset: 0, 0
+  index: -1
+ribbonLdb
+  rotate: false
+  xy: 2, 1731
+  size: 675, 143
+  orig: 675, 143
+  offset: 0, 0
+  index: -1
+ribbonWin
+  rotate: false
+  xy: 2, 1876
+  size: 700, 170
+  orig: 700, 170
+  offset: 0, 0
+  index: -1
+scoreBar
+  rotate: false
+  xy: 704, 1802
+  size: 496, 85
+  orig: 496, 85
+  offset: 0, 0
+  index: -1
+select
+  rotate: false
+  xy: 1320, 1605
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+shuffle
+  rotate: false
+  xy: 315, 297
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1
+silver
+  rotate: false
+  xy: 1811, 1808
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1792, 1573
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+text_fail
+  rotate: false
+  xy: 674, 1482
+  size: 229, 66
+  orig: 229, 66
+  offset: 0, 0
+  index: -1
+text_vic
+  rotate: false
+  xy: 679, 1734
+  size: 290, 62
+  orig: 290, 62
+  offset: 0, 0
+  index: -1
+textbox
+  rotate: false
+  xy: 2, 1208
+  size: 426, 118
+  orig: 426, 118
+  offset: 0, 0
+  index: -1
+tileBomb
+  rotate: false
+  xy: 1320, 1697
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tileLv
+  rotate: false
+  xy: 430, 1220
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+title_bar_panel
+  rotate: false
+  xy: 2, 1088
+  size: 422, 118
+  orig: 422, 118
+  offset: 0, 0
+  index: -1

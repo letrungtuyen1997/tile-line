@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542614703311",
+    "project_id": "jkthreelink",
+    "storage_bucket": "jkthreelink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542614703311:android:ba588209fa9f351cc37bba",
+        "android_client_info": {
+          "package_name": "jk.threelink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542614703311-vegauusrsgptt7d8lc41tcv0uhcgbjui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxyisneCWLlQ7JRVQUp3RzXQBBEOZ4g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542614703311-vegauusrsgptt7d8lc41tcv0uhcgbjui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

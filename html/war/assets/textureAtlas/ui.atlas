@@ -1,0 +1,433 @@
+
+ui.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1star
+  rotate: false
+  xy: 1199, 438
+  size: 96, 42
+  orig: 96, 42
+  offset: 0, 0
+  index: -1
+2star
+  rotate: false
+  xy: 1180, 482
+  size: 96, 42
+  orig: 96, 42
+  offset: 0, 0
+  index: -1
+3star
+  rotate: false
+  xy: 1096, 746
+  size: 96, 43
+  orig: 96, 43
+  offset: 0, 0
+  index: -1
+TileLv
+  rotate: false
+  xy: 1567, 713
+  size: 96, 104
+  orig: 96, 104
+  offset: 0, 0
+  index: -1
+bar
+  rotate: false
+  xy: 1642, 1092
+  size: 400, 42
+  orig: 400, 42
+  offset: 0, 0
+  index: -1
+barframe
+  rotate: false
+  xy: 1642, 1048
+  size: 400, 42
+  orig: 400, 42
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 747
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+btn resume
+  rotate: false
+  xy: 1730, 1339
+  size: 296, 91
+  orig: 296, 91
+  offset: 0, 0
+  index: -1
+btnBomb
+  rotate: false
+  xy: 1955, 973
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+btnGameOther
+  rotate: false
+  xy: 1073, 465
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+btnGreen
+  rotate: false
+  xy: 1591, 819
+  size: 210, 75
+  orig: 210, 75
+  offset: 0, 0
+  index: -1
+btnGreen2
+  rotate: false
+  xy: 604, 9
+  size: 296, 91
+  orig: 296, 91
+  offset: 0, 0
+  index: -1
+btnHint
+  rotate: false
+  xy: 1973, 1780
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+btnLv
+  rotate: false
+  xy: 1326, 1411
+  size: 402, 123
+  orig: 402, 123
+  offset: 0, 0
+  index: -1
+btnNext
+  rotate: false
+  xy: 1498, 725
+  size: 67, 97
+  orig: 67, 97
+  offset: 0, 0
+  index: -1
+btnOrange
+  rotate: false
+  xy: 1328, 993
+  size: 296, 91
+  orig: 296, 91
+  offset: 0, 0
+  index: -1
+btnPause
+  rotate: false
+  xy: 1973, 1855
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+btnPlay
+  rotate: false
+  xy: 724, 834
+  size: 402, 123
+  orig: 402, 123
+  offset: 0, 0
+  index: -1
+btnPrevNext
+  rotate: false
+  xy: 1973, 1930
+  size: 67, 97
+  orig: 67, 97
+  offset: 0, 0
+  index: -1
+btnRank
+  rotate: false
+  xy: 1216, 526
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+btnReplay
+  rotate: false
+  xy: 1332, 903
+  size: 258, 88
+  orig: 258, 88
+  offset: 0, 0
+  index: -1
+btnShuffle
+  rotate: false
+  xy: 1973, 1705
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+btnWatchAds
+  rotate: false
+  xy: 861, 447
+  size: 210, 81
+  orig: 210, 81
+  offset: 0, 0
+  index: -1
+btnYellow
+  rotate: false
+  xy: 1128, 791
+  size: 182, 62
+  orig: 182, 62
+  offset: 0, 0
+  index: -1
+comboLine
+  rotate: false
+  xy: 2, 2
+  size: 200, 5
+  orig: 200, 5
+  offset: 0, 0
+  index: -1
+cucxilau
+  rotate: false
+  xy: 1323, 517
+  size: 93, 120
+  orig: 93, 120
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 1973, 1650
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+fail
+  rotate: false
+  xy: 1332, 824
+  size: 257, 77
+  orig: 257, 77
+  offset: 0, 0
+  index: -1
+failEn
+  rotate: false
+  xy: 1128, 855
+  size: 202, 102
+  orig: 202, 102
+  offset: 0, 0
+  index: -1
+failVi
+  rotate: false
+  xy: 1730, 1432
+  size: 274, 102
+  orig: 274, 102
+  offset: 0, 0
+  index: -1
+footer
+  rotate: false
+  xy: 724, 732
+  size: 370, 100
+  orig: 370, 100
+  offset: 0, 0
+  index: -1
+frmLevel
+  rotate: false
+  xy: 1361, 675
+  size: 135, 147
+  orig: 135, 147
+  offset: 0, 0
+  index: -1
+frmStar
+  rotate: false
+  xy: 1376, 1086
+  size: 264, 81
+  orig: 264, 81
+  offset: 0, 0
+  index: -1
+gift box copy
+  rotate: false
+  xy: 604, 102
+  size: 200, 187
+  orig: 200, 187
+  offset: 0, 0
+  index: -1
+giftClose
+  rotate: false
+  xy: 604, 493
+  size: 255, 237
+  orig: 255, 237
+  offset: 0, 0
+  index: -1
+giftOpen
+  rotate: false
+  xy: 1376, 1169
+  size: 277, 240
+  orig: 277, 240
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 1104, 242
+  size: 93, 99
+  orig: 93, 99
+  offset: 0, 0
+  index: -1
+iconlock
+  rotate: false
+  xy: 1655, 1349
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1326, 1536
+  size: 645, 491
+  orig: 645, 491
+  offset: 0, 0
+  index: -1
+offMusic
+  rotate: false
+  xy: 1418, 475
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+offSound
+  rotate: false
+  xy: 1760, 696
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+onMusic
+  rotate: false
+  xy: 1803, 796
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+onSound
+  rotate: false
+  xy: 1418, 575
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 724, 1394
+  size: 600, 633
+  orig: 600, 633
+  offset: 0, 0
+  index: -1
+popupEnd
+  rotate: false
+  xy: 2, 9
+  size: 600, 736
+  orig: 600, 736
+  offset: 0, 0
+  index: -1
+rec
+  rotate: false
+  xy: 1104, 343
+  size: 93, 120
+  orig: 93, 120
+  offset: 0, 0
+  index: -1
+ribonFail
+  rotate: false
+  xy: 724, 959
+  size: 602, 207
+  orig: 602, 207
+  offset: 0, 0
+  index: -1
+ribonWin
+  rotate: false
+  xy: 724, 1168
+  size: 650, 224
+  orig: 650, 224
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1895, 922
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+star1Off
+  rotate: false
+  xy: 1216, 639
+  size: 143, 150
+  orig: 143, 150
+  offset: 0, 0
+  index: -1
+star1On
+  rotate: false
+  xy: 814, 292
+  size: 143, 153
+  orig: 143, 153
+  offset: 0, 0
+  index: -1
+star2Off
+  rotate: false
+  xy: 604, 291
+  size: 208, 200
+  orig: 208, 200
+  offset: 0, 0
+  index: -1
+star2On
+  rotate: false
+  xy: 861, 530
+  size: 208, 200
+  orig: 208, 200
+  offset: 0, 0
+  index: -1
+star3Off
+  rotate: false
+  xy: 1071, 578
+  size: 143, 152
+  orig: 143, 152
+  offset: 0, 0
+  index: -1
+star3On
+  rotate: false
+  xy: 959, 292
+  size: 143, 153
+  orig: 143, 153
+  offset: 0, 0
+  index: -1
+starOff
+  rotate: false
+  xy: 1199, 394
+  size: 96, 42
+  orig: 96, 42
+  offset: 0, 0
+  index: -1
+titlePause
+  rotate: false
+  xy: 1626, 974
+  size: 327, 72
+  orig: 327, 72
+  offset: 0, 0
+  index: -1
+titlebg
+  rotate: false
+  xy: 1665, 697
+  size: 93, 120
+  orig: 93, 120
+  offset: 0, 0
+  index: -1
+victory
+  rotate: false
+  xy: 1592, 896
+  size: 301, 76
+  orig: 301, 76
+  offset: 0, 0
+  index: -1
+victoryEn
+  rotate: false
+  xy: 1655, 1235
+  size: 329, 102
+  orig: 329, 102
+  offset: 0, 0
+  index: -1
+victoryVi
+  rotate: false
+  xy: 1655, 1136
+  size: 333, 97
+  orig: 333, 97
+  offset: 0, 0
+  index: -1

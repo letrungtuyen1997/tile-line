@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/tuyen/Desktop/libgdx/3-link/android/build/intermediates/res/merged/debug/xml_remote_config_defaults.xml.flat",
+        "source": "/Users/tuyen/Desktop/libgdx/3-link/android/res/xml/remote_config_defaults.xml"
+    },
+    {
+        "merged": "/Users/tuyen/Desktop/libgdx/3-link/android/build/intermediates/res/merged/debug/xml_global_tracker.xml.flat",
+        "source": "/Users/tuyen/Desktop/libgdx/3-link/android/res/xml/global_tracker.xml"
+    },
+    {
+        "merged": "/Users/tuyen/Desktop/libgdx/3-link/android/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/tuyen/Desktop/libgdx/3-link/android/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tuyen/Desktop/libgdx/3-link/android/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/tuyen/Desktop/libgdx/3-link/android/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tuyen/Desktop/libgdx/3-link/android/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/tuyen/Desktop/libgdx/3-link/android/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tuyen/Desktop/libgdx/3-link/android/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/tuyen/Desktop/libgdx/3-link/android/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tuyen/Desktop/libgdx/3-link/android/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/tuyen/Desktop/libgdx/3-link/android/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

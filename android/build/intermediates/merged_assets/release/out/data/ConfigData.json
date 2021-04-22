@@ -1,0 +1,13 @@
+{
+  "PaddingBaner": 130,
+  "DuraMoveCoin": 0.8,
+  "CoinsReward": 1000,
+  "PriceHints": 2000,
+  "PriceShuffle": 2000,
+  "PriceTime": 1000,
+  "Clock": 15,
+  "renClock": 2,
+  "TimeCombo": 2.5,
+  "MaxShowFullScreen": 6,
+  "ShowBanner": 500
+}

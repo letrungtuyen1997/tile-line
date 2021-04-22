@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "jk.threelink",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "INSTANT_APP_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "3-Link_V1_1.0_210413.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "jk.threelink",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    }
+  ]
+}
